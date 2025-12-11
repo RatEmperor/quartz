@@ -1,21 +1,24 @@
 
-
 | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 50  | 20  | 45  | 60  | 30  | 50  | 30  | x   | x   | x   | 26  | 4   |
+| 40  | 40  | x   | 40  | 50  | 60  | 30  | x   | x   | x   | 16  | 6   |
 
 > [!Example] Skills
-> -none
+> -x
 
 > [!Hint] Talents
-> -Hardy
+> -x<
 
 > [!danger] Traits
-> -Armor 6
-> -Die Hard
-> -Fear 2
-> -Painless
+> -Chill Grasp
+> -Ethereal
+> -Ghostly Howl
+> -Terror 3
+
 
 > [!Caution] Attacks
-> -Hand (4) - undamaging
-> -Bite (8) - infected
+>-Grasp (8)
+-Siphon (4)
+>
+
+

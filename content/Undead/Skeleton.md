@@ -1,21 +1,20 @@
 
-
 | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 50  | 20  | 45  | 60  | 30  | 50  | 30  | x   | x   | x   | 26  | 4   |
+| 40  | 50  | 30  | 40  | 40  | 40  | 30  | x   | x   | x   | 15  | 4   |
 
 > [!Example] Skills
-> -none
+> -Melee (Basic) 50
+> 
 
 > [!Hint] Talents
-> -Hardy
+> -x<
 
 > [!danger] Traits
-> -Armor 6
-> -Die Hard
-> -Fear 2
+> -Armour 6 (non-blunt=undamaging)
 > -Painless
 
 > [!Caution] Attacks
-> -Hand (4) - undamaging
-> -Bite (8) - infected
+> -Weapon+3
+
+
