@@ -1,17 +1,19 @@
 
 | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40  | 50  | 30  | 40  | 40  | 40  | 30  | x   | x   | x   | 15  | 4   |
+| 35  | x   | 55  | 55  | 40  | 40  | x   | 15  | 15  | x   | 16  | 6   |
 
-> [!Example] Skills
-> -Melee (Basic) 50
-> 
+
 
 > [!danger] Traits
-> -Armour 6 (non-blunt=undamaging)
-> -Painless
+> -Armour 1
+> -Belligerent
+> -Bestial
+> -Skittish
+> -Stride
 
 > [!Caution] Attacks
-> -Weapon +3
+> -Slash +8
+> -Horns (Tusks) +8
 
 

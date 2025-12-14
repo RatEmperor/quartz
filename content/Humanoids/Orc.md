@@ -1,24 +1,23 @@
 
 | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25  | 25  | 20  | 25  | 40  | 40  | 30  | 20  | 20  | 15  | 6   | 5   |
+| 45  | 45  | 50  | 60  | 30  | 40  | 30  | 30  | 30  | 25  | 26  | 4   |
 
 > [!Example] Skills
-> -Climb 30
-> -Dodge 45
-> -Melee (Basic) 30
-> -Stealth 50
-> -Track 50
-
-> [!Hint] Talents
-> -Keen Sense (Smell)
+> -Dodge 50
+> -Endurance 85
+> -Melee (Basic) 60
+> -Ranged (Bow/Sling/Throw) 60
 
 > [!danger] Traits
 > -Armour 1
-> -Infected
+> -Belligerent
+> -Die Hard
+> -Fury
+> -Hardy
+> -Painless
 
 > [!Caution] Attacks
-> -Claw (4) 
-> -Bite (6) 
+> -Weapon +9
 
 

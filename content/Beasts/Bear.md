@@ -1,19 +1,17 @@
 
 | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40  | 40  | x   | 40  | 50  | 60  | 30  | x   | x   | x   | 16  | 6   |
+| 45  | x   | 75  | 75  | 40  | 35  | 10  | 10  | 15  | x   | 44  | 5   |
 
 
 > [!danger] Traits
-> -Chill Grasp
-> -Ethereal
-> -Ghostly Howl
-> -Terror 3
-
+> -Armour 3
+> -Bestial
+> -Stride
+> -Tracker
 
 > [!Caution] Attacks
->-Grasp +8
->-Siphon +4 (Vampiric)
->
+> -Claws +11
+> -Bite +16
 
 
