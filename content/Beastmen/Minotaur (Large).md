@@ -1,23 +1,23 @@
 
 | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40  | 30  | 60  | 75  | 25  | 25  | 25  | 20  | 30  | 15  | 44  | 5   |
+| 45  | 25  | 50  | 50  | 25  | 25  | 20  | 25  | 30  | 25  | 36  | 6   |
 
 > [!Example] Skills
-> -Endurance 95
-> -Melee (Basic) 50
+> -Athletics 40
+> -Endurance 65
+> -Melee (Basic) 55
 > -Perception 30
 
 > [!danger] Traits
-> -Armour 2
-> -Belligerent
-> -Die Hard
+> -Armour (1)
 > -Fury
-> -Regenerate
-> -Vomit
+> -Horns (+9)
+> -Night Vision
+> -Infected
 
 > [!Caution] Attacks
-> -Slam +11
-> -Bite +15
-> -Weapon +13 (Impact, Slow)
+> -Spear (+7)
+> -Sling (+7)
+
 
