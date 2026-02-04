@@ -1,6 +1,2 @@
-# Beasts
-
-# Rats
-# Undead
-[[Zombie]]
+# Bestiář
 
