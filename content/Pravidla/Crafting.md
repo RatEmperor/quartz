@@ -1,4 +1,4 @@
-Výroba jakéhokoli vybavení probíhá provedením **Extended Testu** řemesla, kde jeden test odpovídá času jedné hodiny. Tyto testy musí cíl opakovat, dokud nedosáhne cílového **CN**.
+	Výroba jakéhokoli vybavení probíhá provedením **Extended Testu** řemesla, kde jeden test odpovídá času jedné hodiny. Tyto testy musí cíl opakovat, dokud nedosáhne cílového **CN**.
 
 Řemeslné testy získávají **CN** následovně:
 
