@@ -11,7 +11,7 @@
 -Scout Traps: *Během postupu chodbou provede Challenging Perception/Intuition Test, po úspěchu detekuje pasti*
 
 **Strategist**
-Po vstupu do oblasti získá *Action Points* rovné svému FB+IB, které může na začátku bitev utrácet za bonusy pro skupinu:
+Po vstupu do oblasti získá *Action Points* rovné svému FB+IntB, které může na začátku bitev utrácet za bonusy pro skupinu:
 *-Aware (1)*: cíl není překvapen
 *-Ambush (2)*: nepřítel (1) je překvapen
 *-Fearless (1)*: spojenec získá +20 do psychology testů

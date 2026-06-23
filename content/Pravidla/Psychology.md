@@ -30,23 +30,27 @@ Dokud jsi ovlivněn statusem, získáváš *+2 Stresu* a (2) získáváš *Preju
 
 > [!Hint] ***Pozitivní***
 > ***Affection*** 
-> Dokud jsi ovlivněn statusem, získáváš *+1SL* pro podporu a ochranu zdroje.
+> *+1SL* pro podporu a ochranu zdroje
 > ***Bond***
-> Dokud jsi ovlivněn statusem, snižuješ si *Stres* o hodnotu *+1*, pokud léčení podstupuješ se zdrojem statusu.
+> snižuješ si *Stres* o hodnotu *+1*, pokud léčení podstupuješ se zdrojem statusu
 > ***Calm***
-> Dokud jsi ovlivněn statusem, získáváš *-1 Stresu* (minimum 1).
+> získáváš *-1 Stresu* (minimum 1)
 > ***Dauntless***
-> Dokud jsi ovlivněn statusem, ztrácíš o *-1W* ze všech zdrojů (minimum 1). 
-> ***Determinated***
-> Dokud jsi ovlivněn statusem, léčíš si za pomoci *Resolve* o *1W* více. 
+> ztrácíš o *-1W* ze všech zdrojů (minimum 1)
+> ***Determined***
+> léčíš si za pomoci *Resolve* o *1W* více
 > ***Devotion*** 
-> Dokud jsi ovlivněn statusem, získáváš *Resistance (Psychology)*, pokud jednáš k ochraně zdroje.
+> získáváš *Resistance (Psychology)*, pokud jednáš k ochraně zdroje
 > ***Fervorous***
-> Dokud jsi ovlivněn statusem, ztrácíš *-1 Stres* při porážce nepřítele
+> ztrácíš *-1 Stres* při porážce nepřítele
 > ***Focused***
-> Dokud jsi ovlivněn statusem, získáváš *+1 max Fortune*.
+> získáváš *+1 max Fortune*
+> ***Iron Constitution***
+> odolávání nemocem je vždy o stupeň snažší
+> ***Martyr***
+> Akce na *Death's Door* nezkracují jeho trvání
 > ***Rapturous***
-> 
+> na *kritická zranění *si vždy házíš s výhodou
 > ***Stalwart***
 > Dokud jsi ovlivněn statusem, získáváš *+2 max W*.
 > ***Stout-Hearted***
