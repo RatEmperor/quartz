@@ -32,7 +32,7 @@ Vždy stojí 2 životy, není blíže definovaná
 2- Efekt trvá 1 den [2/1]
 3- Efekt trvá, dokud není magicky zrušen (*Limit WPB bytostí*) [3]
 
-**[[Trnitý Ochránce]]**
+**[[Trnitý Ochránce 1]]**
 Vyvolá magickou bytost (viz. Statblock)
 1-Vydrží 10 minut, nemůže se vzdálit do 10 metrů od lebky
 2- Vydrží den, nemůže se vzdálit do 10 metrů od lebky

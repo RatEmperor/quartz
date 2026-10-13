@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ce6fceac39eec7b0","type":"text","text":"**[[Upkeep]]**\n- Food\n- Heat\n- Buildings\n- Welfare Check","x":-180,"y":-800,"width":250,"height":180,"color":"5"},
+		{"id":"aa246e94ee331bb2","type":"text","text":"[[Expedice]]\n- Set Targets\n- Roll Resolution\n- Morale Boost","x":-180,"y":-590,"width":250,"height":160,"color":"1"},
+		{"id":"f9b4b45aea5cbc0c","type":"text","text":"**Morale Events**","x":-180,"y":-400,"width":250,"height":60,"color":"4"},
+		{"id":"c1e1daad2ce7dac0","type":"text","text":"**Morale Boost**\n+(1+1x already resting group)/resing group","x":140,"y":-540,"width":360,"height":60},
+		{"id":"e8bab0a5808c4e08","type":"text","text":"[[Corruption]]\n- Replenish\n- Spread\n- Special Replenish","x":-180,"y":-300,"width":250,"height":160,"color":"2"}
+	],
+	"edges":[
+		{"id":"c5d3bcd95bcf6495","fromNode":"ce6fceac39eec7b0","fromSide":"bottom","toNode":"aa246e94ee331bb2","toSide":"top"},
+		{"id":"542666849ca314b0","fromNode":"aa246e94ee331bb2","fromSide":"right","toNode":"c1e1daad2ce7dac0","toSide":"left"},
+		{"id":"c4980a8436b47fe1","fromNode":"aa246e94ee331bb2","fromSide":"bottom","toNode":"f9b4b45aea5cbc0c","toSide":"top"},
+		{"id":"323c93951a1027cb","fromNode":"f9b4b45aea5cbc0c","fromSide":"bottom","toNode":"e8bab0a5808c4e08","toSide":"top"}
+	]
+}

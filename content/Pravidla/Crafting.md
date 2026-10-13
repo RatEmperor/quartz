@@ -30,7 +30,7 @@ Složitosti testu odpovídají vzácnosti předmětu:
 | Uncommon | +0  |
 | Rare     | -10 |
 | Scarce   | -20 |
-Materiály vyžadované na přípravu odpovídají **ENC** hodnotě vybavení **x2** (minimum 1), kde platí, že se násobič neuplatňuje pro tyčové zbraně.
+Materiály vyžadované na přípravu odpovídají **ENC** hodnotě vybavení (minimum 1), kde platí, že se násobič neuplatňuje pro tyčové zbraně.
 
 **CN** předmětu je určeno tabulkou:
 
@@ -56,3 +56,21 @@ Materiály vyžadované na přípravu odpovídají **ENC** hodnotě vybavení **
 | Kožený Nátepník              | 2   | Brigandina (Košile)   | 12  | -               | -   |
 | Kožený Náholeník             | 2   | Brigandina (Nohavice) | 8   | -               | -   |
 
+***Dostupná Řemesla***
+1) Kovář
+   a) Platnéř
+   b) Zbrojíř
+   c) Klenotník
+2) Pláteník
+   a) Koželuh
+   b) Krejčí
+3) Lovčí
+   a) Trapper
+   b) Bowyer
+4) Bylinkář
+   a) Drogista
+   b) Alchymista
+5) Stavitel
+   a) Kamenník
+   b) Tesař
+   
