@@ -91,7 +91,7 @@ Po úspěšném hodu na výrobu samotného talismanu se určí jeho úroveň hod
 > III) +Tvůj pohyb je zcela tichý, pokud se na tebe pozorovatel nesoustředí
 > IV) +Testy pro tvoji detekci jsou automaticky o stupeň náročnější
 
-> [!Talisman Hada]
+> [!Talisman Hada] (+2)
 > materiály: šupiny ještěra, staré kosti, můra,
 > I) Vystačíš si s poloviční dávkou jídla, které by bylo normálně třeba
 > II) +Obdržíš *+1SL* do *Test*ů proti hladovění
