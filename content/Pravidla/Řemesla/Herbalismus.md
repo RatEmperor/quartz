@@ -63,3 +63,131 @@ Každá sloučenina může mít *maximálně jeden* efekt každého druhu; pokud
 > -odvar
 > -požití
 > -sérum
+
+> [!summary] Frenzy (s)
+> *trvá minutu/do konce souboje*
+> *Pokud bytost selže o -3SL a více, ztratí možnost rozlišit spojence*
+> I - *Easy Endurance Test* (-SL/PP), při neúspěchu způsobí stav *Frenzy*
+
+> [!summary] Hořlavina
+> *Látka vzplane při kontaktu s plameny*  
+
+> [!summary] Imunita (h)
+> *podporuje odolnost proti nemocem*
+> I - +SL/PP
+> II - snažší stupeň/PP
+> III - imunita
+
+> [!summary] Jed (i)
+> *způsobí tolikrát stav Poisoned,kolik -SL bytost získá v (X) Endurance testu*
+> I -average
+> II -challenging
+> III -difficult
+> IV -hard
+> V -very hard
+
+
+> [!Summary] Léčení (i)
+> *Vyléčí tolik životů, kolik +SL bytost získá v (X) Endurance testu*
+> I -challenging
+> II -average
+> III -easy
+> IV -very easy
+
+> [!summary] Nabuzení (s)
+> *pomáhá proti únavě*
+> I - minus hodina spánku/PP
+> II - ignorace stavu Fatigued/PP na hodinu
+> III -odstranění Fatigued/PP  
+
+> [!summary] Nekróza (i)
+> *způsobí tolik zranění, kolik -SL bytost získá v (X) Endurance testu*
+> I -average
+> II -challenging
+> III -difficult
+> IV -hard
+> V -very hard
+
+> [!Summary] Očištění (i)
+> *odstraní tolik stavů, kolik +2SL bytost získá v (X) Endurance testu*
+> I -challenging
+> II -average
+> III -easy
+> IV -very easy
+
+> [!Summary] Odolnost (h)
+> *přidá tolik životů, kolik +2SL bytost získá v (X) Endurance testu*
+> I -challenging
+> II -average
+> III -easy
+> IV -very easy
+
+> [!summary] Otupení
+> *usnadňuje hody proti bolesti*
+> I - +SL/PP
+> II - snažší stupeň/PP
+> III - imunita
+
+> [!summary] Paralýza (h)
+> *Sníží S o -10 tolikrát, kolik -2SL bytost získá v (X) Endurance testu*
+> *Pokud je hodnota snížena pod 0, je bytost paralyzovaná*
+> I -average
+> II -challenging
+> III -difficult
+> IV -hard
+> V -very hard
+
+> [!summary] Potence
+> *přidává PP jakémukoli efektu, lze použít (X)*
+> I -jednou
+> II -dvakrát
+> III -třikrát
+  
+> [!summary] Protijed (h)
+> *Pomáhá odolávat jedům*
+> I - +SL/PP
+> II - snažší stupeň/PP
+> III - imunita
+  
+> [!summary] Protizánětlivost
+> *Zkrátí trvání zánětu o tolik dní, kolik +SL bytost získá v (X) Endurance testu*
+> I -challenging
+> II -average
+> III -easy
+> IV -very easy
+  
+> [!summary] Regenerace
+> *zkrátí trvání zranění svalů o tolik dní, kolik +SL bytost získá v (X) Endurance testu*
+> I -challenging
+> II -average
+> III -easy (působí i na kosti)
+> IV -very easy (působí i na vnitřní zranění)
+
+> [!summary] Stres
+> *vyléčí tolik stresu, kolik +2SL bytost získá v (X) Endurance testu*
+> I -challenging
+> II -average
+> III -easy
+> IV -very easy
+
+> [!summary] Spánek (s)
+> *způsobí tolik stavů Fatigued, kolik -SL bytost získá v (X) Endurance testu (trvají, dokud bytost neutrpí zranění); pokud přesáhnou TB, bytost získá stav unconcious*
+> I -average
+> II -challenging
+> III -difficult
+> IV -hard
+> V -very hard
+
+> [!summary] Vidění ve tmě (h)
+> *přidá talent Night Vision*
+
+> [!summary] Zmatení (h)
+> *způsobí tolik -1SL do všech hodů, kolik -2SL bytost získá v (X) Endurance testu*
+ I -average  
+II -challenging  
+III -difficult  
+IV -hard  
+V -very hard
+
+> [!summary] Zrcadlení
+> *zrcadlí jakýkoli jiný efekt*

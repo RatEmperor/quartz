@@ -3,10 +3,10 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I   |     |     | X   | III | X   |     |     | II  | X   |
 1) Initiate
-*Skills:* Athletics, Charm, Cool, Dodge, Endurance, Gossip, Lore (Theology), Melee (Brawling), Outdoor Survival, Pray,
+*Skills:* Athletics, Cool, Dodge, Endurance, Gossip, Lore (Local), Lore (Theology), Melee (Brawling), Outdoor Survival, Pray,
 *Talents:* Argumentative, Bless, Dirty Fighting, Suave,
 2) Acolyte
-*Skills:* Heal, Intuition,
+*Skills:* Charm, Heal, Intuition,
 *Talents:*
 3) Travelling Preacher
 *Skills:*
