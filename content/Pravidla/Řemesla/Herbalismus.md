@@ -45,6 +45,7 @@ Každá sloučenina může mít *maximálně jeden* efekt každého druhu; pokud
 > Nabuzení
 > Nekróza
 > Očištění
+> Odolnost
 > Otupení
 > Paralýza
 > Potence
@@ -58,11 +59,11 @@ Každá sloučenina může mít *maximálně jeden* efekt každého druhu; pokud
 > Zrcadlení
 
 > [!NOTE] 4-Užití
-> -kouření
-> -mast
-> -odvar
-> -požití
-> -sérum
+> -kouření (K)
+> -mast (M)
+> -odvar (O)
+> -požití (P)
+> -sérum (S)
 
 > [!summary] Frenzy (s)
 > *trvá minutu/do konce souboje*
