@@ -17,6 +17,31 @@ Pro vytvoření sloučeniny je třeba nejprve vybrat všechny suroviny (látky);
 **Efekty Sloučenin**
 Každá sloučenina může mít *maximálně jeden* efekt každého druhu; pokud je použito více sloučenin stejného efektu, ta slabší je zničena. *Je-li však smícháno více látek stejného efektu a stejné úrovně*, získá efekt tzv. *Potency Point* (PP), které v závislosti na povaze efektu přičítají, či odčítají *1SL* od *Endurance Test*u pro vyhodnocení efektu.
 
+**Hledání**
+Když chce hráč interagovat s bylinami v regionu, určí se nejprve tabulka výskytu hodem *2d10* která určí, jaké vzácnosti se zde vyskytují (tato hodnota se pro region nemění)
+
+| hod   | rarity                                  |
+| ----- | --------------------------------------- |
+| 2     | v oblasti nic neroste                   |
+| 3-7   | abundant                                |
+| 8-12  | abundant, common,                       |
+| 13-15 | abundant, common, uncommon,             |
+| 16-18 | abundant, common, uncommon, scarce,     |
+| 19-20 | abundant common uncommon, scarce, rare, |
+Akce má hráč na výběr dvě:
+-**Evaluace** - postava *2 hodiny* zkoumá oblast; nic nenajde, ovšem doví se výsledek hodu na výskyt v oblasti a do dalšího *hledání* obdrží bonus +20 (I+lore (Herbs))
+-**Hledání** - postava *4 hodiny* hledá byliny v oblasti; na konci hledání sečte všechny *SL* z hodu na hledání a ty následně může proměnit na byliny dostupných rarit dle tabulky (I+lore (Herbs))
+
+| Rarita   | +SL |
+| -------- | --- |
+| abundant | 1   |
+| common   | 2   |
+| uncommon | 3   |
+| scarce   | 4   |
+| rare     | 5   |
+
+
+
 > [!NOTE] 1-Biomy
 > -hory
 > -les (jehličí)
