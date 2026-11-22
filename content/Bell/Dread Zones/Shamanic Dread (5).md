@@ -33,3 +33,5 @@
 | Loviště Smečky | 10   | Orkové získají vlastnost *Belligerent* a *Grim*.                                     |
 | Pošpiněné Lesy | 10   | Les v regionu obdrží *Bestii*. Všechna zvěř se stane agresivní, dokud *Bestie žije*. |
 |                |      |                                                                                      |
+***Current Value***
+5

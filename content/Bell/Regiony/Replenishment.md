@@ -1,5 +1,5 @@
 1) Utvoření Value Poolu:
-   1d10 za každý bod korupce nad 4, pokud oblast přesáhne 6, hodnoty se uplatní pro tabulku speciálních jednotek.
+   1d10 za každý bod korupce nad 4, pokud oblast přesáhne 6, hodnoty se uplatní i pro tabulku speciálních jednotek.
 2) Roll na Tabulce, přiřazení jednotek do relevantních klanů
 
 **Normal Recruitment**

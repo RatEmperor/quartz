@@ -13,7 +13,7 @@
 > -Size (Large)
 
 > [!Caution] Attacks
-> -Tail +9 (Venom, Distracting)
-> -Bite +13 (Infected)
+> -Tail +6 (Venom)
+> -Bite +9 (Infected)
 
 

@@ -1,13 +1,15 @@
 **Scavenging Expedice**
 1) Safety Check (Travel)
-	   *Past:* (10)+(+5/Corruption v prošlém regionu) x 1,5
-	   *Ability:* Stealth Rural (-10), Melee (+10), Ride (+0),
-	   *Talenty:* Rover (-5), Strider (-5), Roughrider (-5)
+	   *Past Modifiers:* (10)+(+5/Corruption v prošlém regionu) x 1,5
+	   *Ability:* Stealth Rural (+10), Melee (-10), Ride (+0),
+	   *Talenty:* Rover (-5), Strider (-5), Roughrider (-5
+	   *Number Modifiers:* <5-+20
+	**Test samotný:** 40+Ability a talenty-Past Modifiers
 2) Scavenging Past
 	   *Scarcity:* viz. Tabulka
 	   *Skills:* +1 do pasti za každou započatou desítku v relevantní statistice člena výpravy
 	   *Talenty:* +2/relevantní talent
-3) Hod
+3) Hod 
 
 | SL  | %   |
 | --- | --- |
@@ -22,18 +24,21 @@
 *Modifiers:* +10 Safety Check
 *Skills:* Melee, Ranged, Set Trap, Track
 *Talents:* Hunter's Eye, Trapper, Rover,
+*Number Modifiers:* <5-+20
 *Items:* Trofej (1), Vlčí kůže (2), Medvědí kůže (3), Kočkovitá kůže (3), Maso (3)
 
 [Vysoká]
 *Base:* 8
 *Skills:* Ranged, Set Trap, Track
 *Talents:* Hunter's Eye, Trapper, Rover,
+*Number Modifiers:* <5-+20
 *Items:* Trofej malá (1), Trofej velká (2), Kůže (2), Maso (1),
 
 [Drobná]
 *Base:* 4
 *Skills:* Ranged,  Set Trap, Stealth, Track,
 *Talents:* Hunter's Eye, Trapper, Rover,
+*Number Modifiers:* <5-+20
 *Items:* Trofej (1), Kůže (1), Peří (1), Maso (4),
 
 [Herbs]
@@ -44,20 +49,23 @@
 
 [Wood]
 *Base:* 8
+*Skills:* Endurance
+*Talents:* Tenacious, Sturdy,
 
 [Stone]
-Hod na těžbu probíhá za pomoci jednotek, ty ovšem potřebují prospektora. Prospektor podstoupí *Average Lore (Geology)* a jeho úspěch rozhodne o pasti pro *Endurance Test* horníků.
+Hod na těžbu probíhá za pomoci jednotek, ty ovšem potřebují prospektora. Prospektor podstoupí *Average Lore (Geology)* a jeho úspěch rozhodne o modifieru pasti pro *Endurance Test* horníků.
+*Mining Talents:* Night Vision, Tenacious, Sturdy,
 *Base:* 10
 *Items:* Kámen (2), Uhlí (2), Železo (2), Stříbro (5), Zlato (10), Drahokamy (15)
 
 | Prospector SL | Test |
 | ------------- | ---- |
-| -3-           | 120  |
-| -2 - -1       | 80   |
-| 0             | 60   |
-| 1-2           | 50   |
-| 3-4           | 40   |
-| 5+            | 30   |
+| -3-           | -80  |
+| -2 - -1       | -40  |
+| 0             | -20  |
+| 1-2           | +0   |
+| 3-4           | +10  |
+| 5+            | +20  |
 
 
 [Ryby]

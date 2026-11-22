@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"43899d20ceaeecb2","x":-617,"y":-296,"width":250,"height":60,"type":"text","text":"Jakob zlanařil Dahira"},
+		{"id":"eb6e2d791454d71b","x":-617,"y":-218,"width":250,"height":60,"type":"text","text":"Dahir zmanipuloval bratra"},
+		{"id":"69ae816f299494d5","x":-260,"y":-356,"width":250,"height":60,"type":"text","text":"Dahir"},
+		{"id":"4c469397333812d3","x":40,"y":-356,"width":250,"height":60,"type":"text","text":"Jakob"},
+		{"id":"717c1dbeefcf48f2","x":360,"y":-356,"width":250,"height":60,"type":"text","text":"Se'ir"},
+		{"id":"9fcebdab80f06498","x":360,"y":-248,"width":250,"height":60,"type":"text","text":"Mistr Jaques"},
+		{"id":"1f71d2acca238751","x":-617,"y":-140,"width":250,"height":60,"type":"text","text":"Se'ir zmanipuloval šlechtice"}
+	],
+	"edges":[]
+}

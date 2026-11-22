@@ -7,3 +7,6 @@ Pro zadržení dechu musí postava podstoupit (standardně *Average*) *Endurance
 
 ***Starvation***
 Za každý den bez jídla musí postava podstoupit (standardně *Challenging*) *Endurance Test*, přičemž při neúspěchu ztrácí *-1 max W* a získají *+1 Fatigued*; za každý den, kdy postava opět dostane najíst, si smí obnovit *+2 max W* ztracené tímto způsobem.
+
+***Zima***
+Pokud je postava podrobena testu proti zimě, musí uspět v *Challenging Endurance Test*u; pokud neuspěje, sníží se jí *Max W* o *-SL* získaných při hodu a obdrží *+1 Fatugued* stav.
